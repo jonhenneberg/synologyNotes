@@ -1,0 +1,1 @@
+Just a store for guides to setting up Synology NAS
